@@ -9,8 +9,11 @@ You are a student at Krona, and you made a time machine to go back in time and l
 Stuff i had time to implement:
 
 -The mines are randomly generated.
+ 
 -The player can move and shoot.
+ 
 -The blocks are destructable.
+ 
 -The silver blocks drop silver.
 
 
