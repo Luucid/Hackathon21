@@ -17,5 +17,10 @@ Stuff i had time to implement:
 -The silver blocks drop silver.
 
 
+--------------------------------------------------------------------------------
+link to project zip with .exe 
+https://drive.google.com/file/d/1wrLU9hbxK1Mo2HtFCO8YVIl3X0VqPCAy/view?usp=sharing
+--------------------------------------------------------------------------------
+
 
 
