@@ -6,6 +6,8 @@ The theme had to be Krona, Kongsberg.. So a far-fetched attempt to include Krona
 
 You are a student at Krona, and you made a time machine to go back in time and look at the silver mining. The machine broke and you entered an alternate reality where monsters exist. You have to fix your time machine by gathering re-sources you find in the mines.
 
+--------------------------------------------------------------------------------
+
 Stuff i had time to implement:
 
 -The mines are randomly generated.
@@ -18,8 +20,11 @@ Stuff i had time to implement:
  
 -The silver blocks drop silver.
 
+--------------------------------------------------------------------------------
 
-
+walk: A-D
+jump: Space
+shoot: mb1
 
 --------------------------------------------------------------------------------
 link to project zip with .exe 
