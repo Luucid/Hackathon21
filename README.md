@@ -11,10 +11,14 @@ Stuff i had time to implement:
 -The mines are randomly generated.
  
 -The player can move and shoot.
+
+-Custom player movement and animations.
  
 -The blocks are destructable.
  
 -The silver blocks drop silver.
+
+
 
 
 --------------------------------------------------------------------------------
